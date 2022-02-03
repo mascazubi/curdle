@@ -13212,17 +13212,17 @@
                                       switch (e) {
                                         case Ma:
                                           a = (function (e) {
-                                            return e ? "ðŸŸ§" : "ðŸŸ©";
+                                            return e ? "🟧" : "🟩";
                                           })(i);
                                           break;
                                         case Ia:
                                           a = (function (e) {
-                                            return e ? "ðŸŸ¦" : "ðŸŸ¨";
+                                            return e ? "🟦" : "🟨";
                                           })(i);
                                           break;
                                         case Oa:
                                           a = (function (e) {
-                                            return e ? "â¬›" : "â¬œ";
+                                            return e ? "⬛" : "⬜";
                                           })(r);
                                       }
                                       d += a;
